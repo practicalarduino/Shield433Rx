@@ -1,6 +1,6 @@
 Practical Arduino 433MHz Receiver Shield
 ========================================
-Copyright 2009 Jonathan Oxer <jon@oxer.com.au>  
+Copyright 2010 Jonathan Oxer <jon@oxer.com.au>  
 Copyright 2009 Marc Alexander <marc.alexander@gmail.com>
 
 A general-purpose 433MHz receiver shield for the Arduino Duemilanove
@@ -15,7 +15,7 @@ Features:
  * Two general-purpose SMT LEDs wired to VCC (drive low to illuminate).
  * Pads for 2 surface-mount 100nF smoothing capacitors.
  * Parts overlay on both the top and the bottom so you can see what you
-   are connecting without having to keep turning the board over.
+   are connecting without turning the board over.
 
 
 INSTALLATION
