@@ -1,7 +1,7 @@
 Practical Arduino 433MHz Receiver Shield
 ========================================
 Copyright 2010 Jonathan Oxer <jon@oxer.com.au>  
-Copyright 2009 Marc Alexander <marc.alexander@gmail.com>
+Practical Arduino: <www.practicalarduino.com>
 
 A general-purpose 433MHz receiver shield for the Arduino Duemilanove
 microcontroller and other boards based on the same header format, such
