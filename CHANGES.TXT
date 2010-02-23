@@ -1,2 +1,9 @@
+2010-02-23  Jonathan Oxer <jon@oxer.com.au>
+  * Release as version 1.1.
+  * Replaced 0805 parts with 0603 parts for machine assembly.
+  * Replaced PTH button with SMT part.
+  * Moved breakout pins on top edge closer together.
+  * Replaced GND and 5V rails with M22 part.
+
 2009-09-19  Jonathan Oxer <jon@oxer.com.au>
   * Initial release as version 1.0
