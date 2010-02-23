@@ -1,7 +1,8 @@
-Practical Arduino 433MHz Receiver Shield
-========================================
+Freetronics 433MHz Receiver Shield
+==================================
 Copyright 2010 Jonathan Oxer <jon@oxer.com.au>  
 Practical Arduino: <www.practicalarduino.com>
+Freetronics: <www.freetronics.org>
 
 A general-purpose 433MHz receiver shield for the Arduino Duemilanove
 microcontroller and other boards based on the same header format, such
@@ -17,6 +18,10 @@ Features:
  * Parts overlay on both the top and the bottom so you can see what you
    are connecting without turning the board over.
 
+As of version 1.1 parts have been switched to 0603 SMT for machine
+assembly. If you want to assemble this board by hand consider using
+v1.0, which used 0805 SMT packages with special oversized pads for
+easier soldering.
 
 INSTALLATION
 ------------
