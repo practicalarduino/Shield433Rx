@@ -1,3 +1,8 @@
+2010-02-28  Jonathan Oxer <jon@oxer.com.au>
+  * Release as version 1.2.
+  * Add power-on indicator.
+  * Switch user LEDs to active-high rather than active-low.
+
 2010-02-23  Jonathan Oxer <jon@oxer.com.au>
   * Release as version 1.1.
   * Replaced 0805 parts with 0603 parts for machine assembly.
