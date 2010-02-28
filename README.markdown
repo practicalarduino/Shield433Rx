@@ -13,7 +13,8 @@ Includes significant prototyping area using the spare shield area.
 Features:
 
  * Reset button wired through to Arduino reset pin.
- * Two general-purpose SMT LEDs wired to VCC (drive low to illuminate).
+ * Two general-purpose SMT LEDs wired to GND via current-limiting
+   resistors (drive HIGH to illuminate).
  * Pads for 2 surface-mount 100nF smoothing capacitors.
  * Parts overlay on both the top and the bottom so you can see what you
    are connecting without turning the board over.
