@@ -1,3 +1,10 @@
+2010-03-01  Jonathan Oxer <jon@oxer.com.au>
+  * Release as version 2.0.
+  * Repositioned general purpose and PWR LEDs to provide more space.
+  * Moved receiver module away from edge to allow more space for
+    resistor mounted just above it.
+  * Repositioned decoupling cap to increase clearance on headers.
+
 2010-02-28  Jonathan Oxer <jon@oxer.com.au>
   * Release as version 1.2.
   * Add power-on indicator.
