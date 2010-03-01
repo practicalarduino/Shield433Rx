@@ -1,8 +1,8 @@
 Freetronics 433MHz Receiver Shield
 ==================================
-Copyright 2010 Jonathan Oxer <jon@oxer.com.au>  
-Practical Arduino: <www.practicalarduino.com>
-Freetronics: <www.freetronics.org>
+Copyright 2010 Jonathan Oxer <jon@freetronics.com>  
+Practical Arduino: <www.practicalarduino.com>  
+Freetronics: <www.freetronics.com>
 
 A general-purpose 433MHz receiver shield for the Arduino Duemilanove
 microcontroller and other boards based on the same header format, such
